@@ -1,4 +1,4 @@
-# auto-certbot-docker
+# Auto Certbot Docker
 Automatically Renew Certbot using Docker
 
 # How to run?
